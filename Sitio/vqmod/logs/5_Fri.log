@@ -1,0 +1,36 @@
+---------- Date: 2015-11-27 05:30:54 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /proyectos/tiengo/onenio/index.php?route=extension/module&token=fc451152383ab850585b50e664b565c1
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity &quot;/home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_xt_shipping_admin.xml&quot;
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity &quot;/home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_xt_shipping_checkout.xml&quot;
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity &quot;/home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_xt_shipping_mails.xml&quot;
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity &quot;/home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_xt_shipping_productpage.xml&quot;
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity &quot;/home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_xt_shipping_sellerarea.xml&quot;
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity &quot;/home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_xt_shipping_sellermenu.xml&quot;
+VQMod::_parseMods - INVALID XML FILE: : I/O warning : failed to load external entity &quot;/home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_xt_shipping.xml&quot;
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-11-27 05:33:56 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /proyectos/tiengo/index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_core_sellermenu.xml
+   id        : MultiMerch Core Seller Menu
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : catalog/view/theme/lexus_superstore_first/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <li><a href="<?php echo $contact; ?>"><i class="fa fa-phone"></i></a> <span class="hidden-xs hidden-sm hidden-md"><?php echo $telephone; ?></span></li>
+
+MOD DETAILS:
+   modFile   : /home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_core.xml
+   id        : MultiMerch Digital Multivendor Marketplace Core
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : catalog/view/theme/lexus_superstore_first/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php foreach ($scripts as $script) { ?>
+----------------------------------------------------------------------
+
+

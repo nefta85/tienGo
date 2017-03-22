@@ -1,0 +1,14 @@
+---------- Date: 2015-09-06 04:08:05 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /proyectos/tiengo/onenio/index.php?route=sale/order/info&token=c0b6b2dbd2eda89bc93d4cc87e87eb3b&order_id=4
+MOD DETAILS:
+   modFile   : /home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_core_admin.xml
+   id        : MultiMerch Core Admin Mods
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : onenio/view/template/sale/order_info.tpl(2)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <td colspan="4" class="text-right"><?php echo $totals['title']; ?>:</td>
+----------------------------------------------------------------------
+
+

@@ -1,0 +1,62 @@
+---------- Date: 2015-07-29 06:24:12 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /proyectos/tiengo/
+MOD DETAILS:
+   modFile   : /home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_core_sellermenu.xml
+   id        : MultiMerch Core Seller Menu
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : catalog/view/theme/lexus_superstore_first/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <li><a href="<?php echo $contact; ?>"><i class="fa fa-phone"></i></a> <span class="hidden-xs hidden-sm hidden-md"><?php echo $telephone; ?></span></li>
+
+MOD DETAILS:
+   modFile   : /home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_core.xml
+   id        : MultiMerch Digital Multivendor Marketplace Core
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : catalog/view/theme/lexus_superstore_first/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php foreach ($scripts as $script) { ?>
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-07-29 06:24:13 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /proyectos/tiengo/
+MOD DETAILS:
+   modFile   : /home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_core_sellermenu.xml
+   id        : MultiMerch Core Seller Menu
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : catalog/view/theme/lexus_superstore_first/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <li><a href="<?php echo $contact; ?>"><i class="fa fa-phone"></i></a> <span class="hidden-xs hidden-sm hidden-md"><?php echo $telephone; ?></span></li>
+
+MOD DETAILS:
+   modFile   : /home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_core.xml
+   id        : MultiMerch Digital Multivendor Marketplace Core
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : catalog/view/theme/lexus_superstore_first/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php foreach ($scripts as $script) { ?>
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-07-29 07:22:26 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /proyectos/tiengo/index.php?route=product/product&product_id=43
+MOD DETAILS:
+   modFile   : /home/rnefta/NetBeansProjects/tiengo/vqmod/xml/multimerch_core_productpage.xml
+   id        : MultiMerch Core Product Page Mods
+   version   : 
+   vqmver    : 
+   author    : http://multimerch.com/
+
+File Name    : catalog/view/theme/lexus_superstore_first/template/product/product.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="rating">
+----------------------------------------------------------------------
+
+
